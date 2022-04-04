@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+#main_photo {
+  max-width: 10rem;
+  float: right;
+  margin: 0 0 .5rem .5rem;
+}
+
+form {
+  label { font-weight: bold; }
+  label, input, button, textarea { display: block; }
+  textarea {
+    min-width: 60%;
+    min-height: 5rem;
+  }
+}
+
+.project_desc {
+  font-style: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+}

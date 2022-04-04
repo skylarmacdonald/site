@@ -1,0 +1,18 @@
+title: Skylar MacDonald
+description: >-
+  Silly joke teller. PowerPoint raconteur. Pretends to be people.
+baseurl: ""
+url: ""
+twitter_username: helloiamskylar
+instagram_username: helloiamskylar
+facebook_username: helloiamskylar
+
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - .ruby-version
+collections:
+  projects:
+    output: true
+permalink: pretty
