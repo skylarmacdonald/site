@@ -1,11 +1,8 @@
 title: Skylar MacDonald
+tagline: Comedian
 description: >-
   Silly joke teller. PowerPoint raconteur. Pretends to be people.
-baseurl: ""
-url: ""
-twitter_username: helloiamskylar
-instagram_username: helloiamskylar
-facebook_username: helloiamskylar
+url: "https://skylarmacdonald.com"
 
 theme: minima
 plugins:
@@ -16,3 +13,15 @@ collections:
   projects:
     output: true
 permalink: pretty
+
+twitter_username: &twt helloiamskylar
+instagram_username: helloiamskylar
+facebook_username: &fb helloiamskylar
+
+twitter:
+  username: *twt
+facebook:
+  publisher: *fb
+
+lang: en_GB
+locale: en_GB
