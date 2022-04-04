@@ -13,6 +13,10 @@ collections:
   projects:
     output: true
 permalink: pretty
+header_pages:
+  - live.md
+  - blog.md
+  - contact.md
 
 twitter_username: &twt helloiamskylar
 instagram_username: helloiamskylar
