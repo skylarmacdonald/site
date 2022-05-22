@@ -1,6 +1,6 @@
 ---
 title: Hello!
-layout: page
+layout: home
 ---
 
 ![Skylar MacDonald]({% link assets/photo.jpg %}){:#main_photo}

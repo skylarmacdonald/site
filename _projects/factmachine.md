@@ -10,4 +10,4 @@ title: Skylar MacDonald's Fact Machine
 
 Fact Machine was my 2019 Edinburgh Fringe show. It was a tongue-in-cheek stand up PowerPoint presentation about the things you can prove with facts and figures, as long as you're not too fussy about things like "accuracy" and "journalistic integrity".
 
-There are currently no further performances of this show scheduled, but never say never...
+I'm performing it again at [EMF 2022](https://www.emfcamp.org/schedule/2022/305-skylar-macdonalds-fact-machine), so if you're going, come along!

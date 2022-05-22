@@ -3,4 +3,4 @@ layout: home
 title: Blog
 ---
 
-This site is still too new for me to have written anything on my blog. But this is where it would be if I had added anything to it.
+This is where I'm writing about stuff that I'm up to, or at least will be when I remember to.

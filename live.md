@@ -3,7 +3,7 @@ layout: page
 title: Live
 ---
 
-Owing to some sort of major global event, I don't currently have any live shows planned. I will update this page when that changes.
+I'm performing [*Fact Machine*]({% link _projects/factmachine.md %}) at [EMF 2022](https://www.emfcamp.org/schedule/2022/305-skylar-macdonalds-fact-machine), which is happening 2nd–5th June 2022. More info is available on [their website](https://emfcamp.org).
 
 ## Past shows
 
