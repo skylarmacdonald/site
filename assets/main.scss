@@ -3,6 +3,17 @@
 
 @import "minima";
 
+
+$header-colour: #700;
+
+.site-header {
+  border-top-color: $header-colour;
+}
+
+.site-title, .site-title:visited {
+  color: $header-colour;
+}
+
 #main_photo {
   max-width: 10rem;
   float: right;
