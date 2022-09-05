@@ -23,6 +23,7 @@ $header-colour: #700;
 form {
   label { font-weight: bold; }
   label, input, button, textarea { display: block; }
+  input[name=_gotcha] { display: none; }
   textarea {
     min-width: 60%;
     min-height: 5rem;

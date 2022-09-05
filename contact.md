@@ -16,6 +16,8 @@ If you want to write me an email, you can contact me using the form below. I don
   
   <label for="message">Your message:</label>
   <textarea name="message" id="message" required></textarea>
+
+  <input type="text" name="_gotcha" />
   
   <button type="submit">Send</button>
 </form>
