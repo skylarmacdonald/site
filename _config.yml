@@ -21,6 +21,9 @@ header_pages:
 twitter_username: &twt helloiamskylar
 instagram_username: helloiamskylar
 facebook_username: &fb helloiamskylar
+mastodon:
+  - username: skylar
+    instance: mastodon.social
 
 twitter:
   username: *twt
