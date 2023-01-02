@@ -20,7 +20,6 @@ header_pages:
 
 twitter_username: &twt helloiamskylar
 instagram_username: helloiamskylar
-facebook_username: &fb helloiamskylar
 mastodon:
   - username: skylar
     instance: mastodon.social
@@ -28,7 +27,7 @@ mastodon:
 twitter:
   username: *twt
 facebook:
-  publisher: *fb
+  publisher: helloiamskylar
 
 lang: en_GB
 locale: en_GB
