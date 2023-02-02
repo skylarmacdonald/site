@@ -1,4 +1,4 @@
 ---
 layout: redirect
-destination: https://skylarmacdonald.github.io/falsehoods/
+destination: https://skye.fyi/2017/05/falsehoods
 ---

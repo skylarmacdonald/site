@@ -1,4 +1,4 @@
 ---
 layout: redirect
-destination: https://skylarmacdonald.github.io/bots/
+destination: https://skye.fyi/bots
 ---

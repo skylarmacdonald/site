@@ -1,4 +1,4 @@
 ---
 layout: redirect
-destination: https://skylarmacdonald.github.io/talks/
+destination: https://skye.fyi/talks
 ---

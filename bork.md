@@ -1,4 +1,4 @@
 ---
 layout: redirect
-destination: https://skylarmacdonald.github.io/bork/
+destination: https://bork.sh
 ---

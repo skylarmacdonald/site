@@ -1,4 +1,4 @@
 ---
 layout: redirect
-destination: https://skylarmacdonald.github.io/webshits/
+destination: https://skye.fyi/webshits
 ---
