@@ -3,7 +3,9 @@ layout: page
 title: Contact
 ---
 
-I am on [Mastodon](https://{{ site.mastodon[0].instance| cgi_escape | escape }}/@{{ site.mastodon[0].username| cgi_escape | escape }}), [Twitter](https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}) and [Instagram](https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}), in descending order of how often I remember to update them. I try and respond to messages on there, but I can't promise to do so quickly or respond to everyone.
+I am on [Mastodon](https://{{ site.mastodon[0].instance| cgi_escape | escape }}/@{{ site.mastodon[0].username| cgi_escape | escape }}) and [Instagram](https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}), in descending order of how often I remember to update them. I try and respond to messages on there, but I can't promise to do so quickly or respond to everyone.
+
+I'm on [Bluesky](https://bsky.app/profile/skylar.mastodon.social.ap.brid.gy), but it mirrors from my Mastodon, so I don't get messages on there. I'm no longer on Twitter/X.
 
 If you want to write me an email, you can contact me using the form below. I don't have a team of people looking at these emails — they all come to me — so it may take me some time to respond. But I will do my best to get back to you!
 

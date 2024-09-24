@@ -11,4 +11,4 @@ I tell silly jokes and pretend to be people. I'm often found in front of a Power
 
 Ostensibly, this website is also a blog, where I will write about what I'm up to when I remember to do so.
 
-I'm also on [Twitter](https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}), which I use more frequently, but mostly just for my silly thoughts.
+I'm also on [Mastodon](https://{{ site.mastodon[0].instance| cgi_escape | escape }}/@{{ site.mastodon[0].username| cgi_escape | escape }}), which I use ever so slightly more frequently, but mostly just for my silly thoughts.

@@ -18,14 +18,11 @@ header_pages:
   - blog.md
   - contact.md
 
-twitter_username: &twt helloiamskylar
 instagram_username: helloiamskylar
 mastodon:
   - username: skylar
     instance: mastodon.social
 
-twitter:
-  username: *twt
 facebook:
   publisher: helloiamskylar
 
