@@ -22,6 +22,7 @@ instagram_username: helloiamskylar
 mastodon:
   - username: skylar
     instance: mastodon.social
+bluesky_username: skylar.lol
 
 facebook:
   publisher: helloiamskylar
